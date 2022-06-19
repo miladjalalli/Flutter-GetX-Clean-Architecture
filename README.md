@@ -1,4 +1,4 @@
-# getx_clean_architecture
+# Flutter GetX Clean Architecture
 
 A new Flutter project.
 
